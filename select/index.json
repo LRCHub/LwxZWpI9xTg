@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "힙합성애자",
+  "base_artist": "방탄소년단 (BTS)",
+  "createdAt": "2026-02-21T00:47:54.246486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "힙합성애자",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/01_힙합성애자_BTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "힙합성애자",
+      "artist": "방탄소년단 (BTS)",
+      "has_synced": true,
+      "path": "select/02_힙합성애자_방탄소년단_(BTS).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "힙합성애자 (Hip Hop Lover)",
+      "artist": "BTS (방탄소년단)",
+      "has_synced": true,
+      "path": "select/03_힙합성애자_(Hip_Hop_Lover)_BTS_(방탄소년단).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "힙합성애자",
+      "artist": "방탄소년단 (BTS)",
+      "has_synced": true,
+      "path": "select/04_힙합성애자_방탄소년단_(BTS).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "힙합성애자",
+      "artist": "방탄소년단",
+      "has_synced": true,
+      "path": "select/05_힙합성애자_방탄소년단.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "힙합성애자",
+      "artist": "방탄소년단(BTS)",
+      "has_synced": true,
+      "path": "select/06_힙합성애자_방탄소년단(BTS).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "힙합성애자",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_힙합성애자_BTS.txt"
+    }
+  ]
+}
